@@ -33,9 +33,7 @@ For backup the Sogo module only:
 
 ### How to use this script
 
-1. Download the file in the Zentyal server:
-
-        wget https://github.com/djoven89/zentyal-scripting/blob/master/zentyal-mail-backup/zentyal-mail-backup.sh -P /usr/local/bin/
+1. Download the script in the Zentyal server and stores it in '/usr/local/bin':
 
 2. Set the proper permissions:
 
